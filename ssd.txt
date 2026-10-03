@@ -1,0 +1,89 @@
+SC,Denominazione
+01/A,Matematica
+01/B,Informatica
+02/A,Fisica delle interazioni fondamentali
+02/B,Fisica della materia
+02/C,Astronomia, astrofisica, fisica della terra e dei pianeti
+02/D,Fisica applicata, didattica e storia della fisica
+03/A,Analitico, chimico-fisico
+03/B,Inorganico, tecnologico
+03/C,Organico, industriale
+03/D,Farmaceutico, tecnologico, alimentare
+04/A,Geoscienze
+05/A,Biologia vegetale
+05/B,Biologia animale
+05/C,Ecologia
+05/D,Fisiologia
+05/E,Biochimica e biologia molecolare sperimentali e cliniche
+05/F,Biologia applicata
+05/G,Scienze farmacologiche sperimentali e cliniche
+05/H,Anatomia umana e istologia
+05/I,Genetica e microbiologia
+06/A,Patologia e diagnostica di laboratorio
+06/B,Clinica medica generale
+06/C,Clinica chirurgica generale
+06/D,Clinica medica specialistica
+06/E,Clinica chirurgica specialistica
+06/F,Clinica chirurgica integrata
+06/G,Clinica pediatrica
+06/H,Clinica ginecologica
+06/I,Clinica radiologica
+06/L,Clinica anestesiologica
+06/M,Sanità pubblica
+06/N,Professioni sanitarie, tecnologie mediche applicate, dell'esercizio fisico e dello sport
+07/A,Economia agraria ed estimo
+07/B,Sistemi colturali agrari e forestali
+07/C,Ingegneria agraria, forestale e dei biosistemi
+07/D,Patologia vegetale ed entomologia
+07/E,Chimica agraria, genetica agraria e pedologia
+07/F,Scienze e tecnologie alimentari
+07/G,Scienze e tecnologie animali
+07/H,Medicina veterinaria
+07/I,Microbiologia agraria
+08/A,Ingegneria delle infrastrutture e del territorio
+08/B,Ingegneria strutturale e geotecnica
+08/C,Design e progettazione tecnologica dell'architettura
+08/D,Progettazione architettonica
+08/E,Disegno, restauro e storia dell'architettura
+08/F,Pianificazione e progettazione urbanistica e territoriale
+09/A,Ingegneria meccanica, aerospaziale e navale
+09/B,Ingegneria manifatturiera, impiantistica e gestionale
+09/C,Ingegneria energetica, termomeccanica e nucleare
+09/D,Ingegneria chimica e dei materiali
+09/E,Ingegneria elettrica, elettronica e misure
+09/F,Ingegneria delle telecomunicazioni e campi elettromagnetici
+09/G,Ingegneria dei sistemi e bioingegneria
+09/H,Ingegneria informatica
+10/A,Scienze archeologiche
+10/B,Storia dell'arte
+10/C,Musica, teatro, cinema, televisione e media audiovisivi
+10/D,Scienze dell'antichità
+10/E,Filologie e letterature medio-latine e romanze
+10/F,Italianistica e letterature comparate
+10/G,Glottologia e linguistica
+10/H,Francesistica
+10/I,Ispanistica
+10/L,Anglistica e angloamericanistica
+10/M,Lingue, letterature e culture germaniche e slave
+10/N,Culture dell'Oriente
+11/A,Discipline storiche
+11/B,Geografia
+11/C,Filosofia
+11/D,Pedagogia
+11/E,Psicologia
+12/A,Diritto privato
+12/B,Diritto commerciale e del lavoro
+12/C,Diritto costituzionale ed ecclesiastico
+12/D,Diritto amministrativo e tributario
+12/E,Diritto internazionale, dell'Unione Europea, comparato, dell'economia, dei mercati e della navigazione
+12/F,Diritto processuale civile
+12/G,Diritto penale e processuale penale
+12/H,Diritto romano, storia del diritto medievale e moderno e filosofia del diritto
+13/A,Economia aziendale
+13/B,Economia degli affari
+13/C,Storia economica
+13/D,Statistica e metodi matematici per le decisioni
+14/A,Teoria politica
+14/B,Storia politica
+14/C,Sociologia
+14/D,Sociologia applicata
